@@ -1,10 +1,10 @@
 export const fakeTodos = [{
-    message: 'Learn about React Ecosystems',
+    message: 'Make your day better',
     isCompleted: false,
 }, {
-    message: 'Get together with friends',
+    message: 'Start a business',
     isCompleted: false,
 }, {
-    message: 'Buy groceries',
+    message: 'Buy a table',
     isCompleted: true,
 }];
